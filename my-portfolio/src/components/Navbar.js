@@ -13,7 +13,7 @@ function Navbar() {
             About
           </a>
         </li>
-        <p> HELLLLLOOOOOO </p>
+        <p>  </p>
         <li className="nav-item">
           <a className="nav-link" href="/projects">
             Projects
